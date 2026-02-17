@@ -1,0 +1,54 @@
+{
+  "header": {
+    "name": "Argenis Torrealba",
+    "title": "Desarrollador Junior Full Stack"
+  },
+  "about": {
+    "title": "Sobre Mí",
+    "description": "Desarrollador Junior 100% autodidacta con conocimientos fundamentales en React, React Native, Node.js y PostgreSQL. He Adquirido mi experiencia a través de la creación independiente de aplicaciones web y móviles con fines de aprendizaje, explorando arquitecturas sin servidor, Prisma y herramientas de IA como WindSurf y Gemini. Busco mi primera oportunidad personal para aplicar esta base técnica, con total disposición para aprender, adaptarme y contribuir con cualquier tecnología que se me ponga por delante."
+  },
+  "projects": {
+    "title": "Proyectos",
+    "technologies": "Tecnologías:",
+    "project1": {
+      "title": "Pasantias Unerg-AIS",
+      "subtitle": "Proyecto para automatizar los procesos administrativos del departamento de Pasantias del Area de Ingeniería en Sistemas de la Universidad UNERG",
+      "description": "Lideré el desarrollo end-to-end de una plataforma web para la automatización integral del departamento de pasantías del Área de Ingeniería en Sistemas. Diseñé una arquitectura segura y escalable con múltiples niveles de acceso (Superadmin, Coordinador/Administrador y Estudiante), optimizando el flujo de recepción, revisión y validación de recaudos. Implementé la generación automatizada de reportes y documentos institucionales personalizados en formatos PDF y Excel. Configuración, despliegue y mantenimiento del sistema en un servidor VPS."
+    },
+    "project2": {
+      "title": "Frito-Cambio",
+      "subtitle": "Aplicación móvil para monitorización de tasas de cambio",
+      "description": "Desarrollo de \"CambioFrito\", una aplicación móvil informativa y sin fines de lucro para la monitorización en tiempo real de tasas de cambio de divisas y criptomonedas (incluyendo el Dólar BCV y USDT en Binance). El proyecto se centra en la integración y consumo eficiente de APIs financieras de terceros para mostrar datos precisos y actualizados, garantizando la total transparencia e integridad de la información a través de una interfaz limpia y accesible."
+    },
+    "project3": {
+      "title": "Frito Music",
+      "subtitle": "Reproductor de música móvil offline",
+      "description": "Desarrollo de \"Frito Music\", un reproductor de música móvil offline enfocado en brindar una experiencia de usuario premium con un diseño UI/UX altamente atractivo e inspirado en plataformas líderes de streaming. La aplicación permite la gestión y reproducción fluida de archivos de audio directamente desde el almacenamiento local del dispositivo. Sus funcionalidades principales incluyen la creación de listas de reproducción, gestión de favoritos y un algoritmo de recomendación interno que sugiere pistas de la propia biblioteca del usuario basándose en su historial de escucha reciente."
+    }
+  },
+  "education": {
+    "title": "Formación Académica",
+    "degree1": {
+      "title": "Ingeniería en Sistemas",
+      "institution": "Universidad UNERG",
+      "status": "Graduado Académicamente"
+    },
+    "degree2": {
+      "title": "Bachiller",
+      "institution": "Liceo Arquidioscesano Ángel de la Guarda",
+      "status": "Completado"
+    }
+  },
+  "contact": {
+    "title": "Contacto",
+    "subtitle": "¿Interesado en trabajar juntos? ¡Contáctame!",
+    "gmail": "Gmail",
+    "whatsapp": "WhatsApp",
+    "socialMedia": "Redes Sociales",
+    "linkedin": "LinkedIn",
+    "github": "GitHub"
+  },
+  "footer": {
+    "rights": "© 2026 Argenis Torrealba. Todos los derechos reservados."
+  }
+}

@@ -1,0 +1,28 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #1a1a1a;
+  --color-secondary: #132e35;
+  --color-accent: #2d4a53;
+  --color-muted: #4a5568;
+  --color-light: #afb3b7;
+  --color-neutral: #2d3748;
+}
+
+body {
+  background-color: white;
+  color: var(--color-primary);
+}
+
+@keyframes shimmer {
+  0% {
+    background-position: -200% 0;
+  }
+  100% {
+    background-position: 200% 0;
+  }
+}
+
+.animate-pulse {
+  animation: shimmer 2s infinite;
+}
