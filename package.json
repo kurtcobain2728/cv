@@ -34,7 +34,7 @@
     "tailwindcss": "^4.1.18",
     "vite": "^8.0.0-beta.13"
   },
-  "overrides": {
-    "vite": "^8.0.0-beta.13"
+  "engines": {
+    "node": ">=22.12.0"
   }
 }
